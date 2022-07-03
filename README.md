@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivan.ponican
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML and CSS and JavaScrpt
 - 📫 Instagram @ivan.ponican
 
 <!---
